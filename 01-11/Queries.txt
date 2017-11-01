@@ -1,0 +1,17 @@
+Why OOPS is required?
+https://www.roberthalf.com/blog/salaries-and-skills/4-advantages-of-object-oriented-programming
+
+What is this pointer?how it relates with oops?
+
+What are all the access specifiers in cpp and its uses?
+
+How memory is allocated for object?
+
+what are all the features of oops?Explain it with examples.
+1.Encapsulation
+2.Polymorphism
+3.Inheritence
+
+
+
+
